@@ -1,3 +1,8 @@
+/*Group Members
+Iddy Kibor Chesire SCT221-0119/2023
+Jeremiah Ruwa Nzai SCT221-0092/2023
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
